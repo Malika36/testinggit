@@ -7,5 +7,6 @@ public class Main {
         System.out.println("HelloWorld!");
         System.out.println("Secondcommit");
         System.out.println("NextCommit-");
+        System.out.println("ForthCommit");
     }
 }
